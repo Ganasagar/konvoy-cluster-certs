@@ -4,15 +4,15 @@ entries:
   - apiVersion: v1
     appVersion: 1.0.0
     created: "2020-07-27T18:11:47.222432-05:00"
-    description: Installs cluster-certificate Kubernetes cluster
+    description: Installs cluster-certificate Konvoy Kubernetes cluster
     digest: 7a2ab26d27eecefb802517476964ca7e434a1285e7ee3aa7c8def9930f489ba0
-    home: https://github.com/cmays20/cluster-certificate
+    home: https://github.com/Ganasagar/konvoy-cluster-certs
     maintainers:
-    - email: cmays@d2iq.com
-      name: cmays
+    - email: smalla@d2iq.com
+      name: sagarm malla
     name: cluster-certificate
     tillerVersion: '>=2.14.2'
     urls:
-    - https://cmays20.github.io/cluster-certificate/cluster-certificate-1.0.0.tgz
+    - https://github.com/Ganasagar/konvoy-cluster-certs/archive/v1.0.0.tar.gz
     version: 1.0.0
 generated: "2020-07-27T18:11:47.221946-05:00"
